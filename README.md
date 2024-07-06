@@ -6,7 +6,7 @@
 3. Git Initialization:
   - Initializing a new Git repository in local folder using command `git init`.
 4. Connecting to GitHub:
-  - Link a local repository to the GitHub repository using command `git remote add origin `
+  - Link a local repository to the GitHub repository using command `git remote add origin https://github.com/Deusleon/PLPBasicGitAssignment.git`
 5. Create a File:
   - Inside a local folder, i have created a new text file named `hello.txt` and add a simple text message "Hello, Git!".
 6. Committing Changes:
